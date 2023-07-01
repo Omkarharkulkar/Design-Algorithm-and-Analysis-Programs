@@ -34,17 +34,24 @@ The repository contains implementations of the following algorithms:
    - Kruskal's Algorithm for MST
    - Prims Algorithm for MST
    - Minimum Cab Probem
+   - Dijikstra's Algorithm
 
 3. Dynamic Programming:
    - 0/1 Knapsack Problem
    - Coin Changing Problem
    - Travelling Salesman Problem
-   - N Queen Problem
+   - Floyd-Warshall's Algorithm
+   - Bellmon-Ford Algorithm
 
 4. Branch and Bound Method:
    - Travelling Salesman Problem
+     
+6. Backtracking:
+   - Depth-First Search (DFS)
+   - Breadth-First Search (BFS)
+   - N Queen
 
-5. String Matching Algorithms:
+7. String Matching Algorithms:
    - Boyer Moore (BM)
    - Robin Karp
    - Naive String Matching Algorithm

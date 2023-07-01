@@ -1,4 +1,4 @@
-# Design and Analysis of Algorithms Repository
+# Design and Analysis of Algorithms
 
 Welcome to the Design and Analysis of Algorithms Repository! This repository contains various programs implemented using different algorithmic techniques, including divide and conquer, greedy method, dynamic programming, branch and bound method, and string matching algorithms. The programs are implemented in C and C++ programming languages.
 
